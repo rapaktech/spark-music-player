@@ -1,4 +1,4 @@
-# Spark_Music_Player is a project I've had in mind.
+# Spark Music Player is a project I've had in mind.
 
 # Long term, the aim is to make it a full streaming website with an Android OS app.
 
